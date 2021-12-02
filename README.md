@@ -16,18 +16,18 @@ Code repository for the upcoming O'Reilly book: [Mastering Kafka Streams and ksq
 [1st-edition]: https://github.com/mitch-seymour/mastering-kafka-streams-and-ksqldb/tree/1st-edition
 
 # Chapter Tutorials
-  - [Chapter 1](https://github.com/mitch-seymour/mastering-kafka-streams-and-ksqldb/tree/1st-edition/chapter-01) - _A Rapid Introduction to Kafka_
-  - [Chapter 2](https://github.com/mitch-seymour/mastering-kafka-streams-and-ksqldb/tree/1st-edition/chapter-02) - _Getting Started with Kafka Streams_
-  - [Chapter 3](https://github.com/mitch-seymour/mastering-kafka-streams-and-ksqldb/tree/1st-edition/chapter-03) - _Stateless Processing (Sentiment Analysis of Cryptcurreny Tweets)_
-  - [Chapter 4](https://github.com/mitch-seymour/mastering-kafka-streams-and-ksqldb/tree/1st-edition/chapter-04) - _Stateful Processing (Video game leaderboard)_
-  - [Chapter 5](https://github.com/mitch-seymour/mastering-kafka-streams-and-ksqldb/tree/1st-edition/chapter-05) - _Windows and Time (Patient Monitoring / Infection detection application)_
-  - [Chapter 6](https://github.com/mitch-seymour/mastering-kafka-streams-and-ksqldb/tree/1st-edition/chapter-06) - _Advanced State Management_
-  - [Chapter 7](https://github.com/mitch-seymour/mastering-kafka-streams-and-ksqldb/tree/1st-edition/chapter-07) - _Processor API (Digital Twin / IoT application)_
-  - [Chapter 8](https://github.com/mitch-seymour/mastering-kafka-streams-and-ksqldb/tree/1st-edition/chapter-08) - _Getting Started with ksqlDB_
-  - [Chapter 9](https://github.com/mitch-seymour/mastering-kafka-streams-and-ksqldb/tree/1st-edition/chapter-09) - _Data Integration with ksqlDB and Kafka Connect_
-  - [Chapter 10](https://github.com/mitch-seymour/mastering-kafka-streams-and-ksqldb/tree/1st-edition/chapter-10) - _Stream Processing Basics with ksqlDB (Netflix Change Tracking - Part I)_
-  - [Chapter 11](https://github.com/mitch-seymour/mastering-kafka-streams-and-ksqldb/tree/1st-edition/chapter-11) - _Intermediate Stream Processing with ksqlDB (Netflix Change Tracking - Part II)_
-  - [Chapter 12](https://github.com/mitch-seymour/mastering-kafka-streams-and-ksqldb/tree/1st-edition/chapter-12) - _The Road to Production_
+  - [Chapter 1](./chapter-01) - _A Rapid Introduction to Kafka_
+  - [Chapter 2](./chapter-02) - _Getting Started with Kafka Streams_
+  - [Chapter 3](./chapter-03) - _Stateless Processing (Sentiment Analysis of Cryptcurreny Tweets)_
+  - [Chapter 4](./chapter-04) - _Stateful Processing (Video game leaderboard)_
+  - [Chapter 5](./chapter-05) - _Windows and Time (Patient Monitoring / Infection detection application)_
+  - [Chapter 6](./chapter-06) - _Advanced State Management_
+  - [Chapter 7](./chapter-07) - _Processor API (Digital Twin / IoT application)_
+  - [Chapter 8](./chapter-08) - _Getting Started with ksqlDB_
+  - [Chapter 9](./chapter-09) - _Data Integration with ksqlDB and Kafka Connect_
+  - [Chapter 10](./chapter-10) - _Stream Processing Basics with ksqlDB (Netflix Change Tracking - Part I)_
+  - [Chapter 11](./chapter-11) - _Intermediate Stream Processing with ksqlDB (Netflix Change Tracking - Part II)_
+  - [Chapter 12](./chapter-12) - _The Road to Production_
 
 # Why read this book?
 
